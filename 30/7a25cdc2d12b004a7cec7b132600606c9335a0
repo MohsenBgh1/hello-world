@@ -1,0 +1,14 @@
+src/HelloWorld.java
+  h_7ae61696266762 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "307a25cdc2d12b004a7cec7b132600606c9335a0",
+  "prompts": {},
+  "humans": {
+    "h_7ae61696266762": {
+      "author": "MohsenB <mohsen.bgh1@gmail.com>"
+    }
+  }
+}
